@@ -55,7 +55,7 @@ class RecomendsPlants extends StatelessWidget {
                     builder: (context) => DetailsScreen(),  
                   )
                 );
-              },
+              },                                                                               
             ),
           ],
         ),
