@@ -1,5 +1,7 @@
 # plant_app
 
+inpired by [flutter way](https://www.youtube.com/watch?v=LN668OAUrK4&t=21s)
+
 A new Flutter project.
 
 ## Getting Started
