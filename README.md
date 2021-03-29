@@ -8,7 +8,7 @@ please download, please develop, but *not for sale.
 ### 🛠️ Built with :
 - [Flutter](https://flutter.dev)
 ### ️🌃 Screenshots: 
-![App UI](https://github.com/faizinkholiq/plant_app/blob/master/plant_app.png?raw=true)
+![App UI](https://github.com/faizinkholiq/plant_app/blob/master/raw/plant_app.png?raw=true)
 <br />
 
 ## Getting started
