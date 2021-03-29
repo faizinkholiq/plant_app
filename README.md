@@ -1,7 +1,6 @@
 # Plant App
 
-App for monitoring corona case with your devices hihihi....
-it's simple to use.. just open the application then swipe up to see the corona data case.
+Simple UI for plant app. 😃
 please download, please develop, but *not for sale.
 
 ## A Little bit about us
